@@ -84,7 +84,7 @@ netflix-content-analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone < https://github.com/sachin07z/Netflix-Content-Analysis-Dashboard.git>
    cd netflix-content-analysis
    ```
 
